@@ -4,4 +4,4 @@ Roadmap:
 
 1- Add an action on click simulating a blink or something similar
 
-<img src="./images/PacMan1.png" width="300px">
+<img src=".oneeye.png" width="300px">
